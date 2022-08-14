@@ -2,8 +2,8 @@
 
 Object-Oriented - Python Rich Library - Mini Max Algorithm
 
-<img src="https://github.com/niranjanneeru/Tic-Tac-Toe/blob/master/assets/1.png?raw=true">>
-<img src="https://github.com/niranjanneeru/Tic-Tac-Toe/blob/master/assets/2.png?raw=true">>
+<img src="https://github.com/niranjanneeru/Tic-Tac-Toe/blob/master/assets/1.png?raw=true">
+<img src="https://github.com/niranjanneeru/Tic-Tac-Toe/blob/master/assets/2.png?raw=true">
 
 ___
 
